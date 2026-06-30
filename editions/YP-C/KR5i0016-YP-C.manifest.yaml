@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR5i0016/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5i0016/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶紫微金格高上玉皇本行集經闡微
+  date: '2015-08-29 17:48:51.638799'
+  source:
+    repository: kanripo
+    path: KR5i0016
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0016_001-YP-C.yaml, hash: 'sha256:c12881629aaba8097403ddb1c408757c02dc00c035a3ada18d308806b43ef3db'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0016_001-YP-C.markers.yaml, hash: 'sha256:f95a5e1232f3232cc9aa1eaa3fb8be8fed60f5f43a0b9d29ca71102735fdc79d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: YP-C_KR5i0016_07miji-08-0174b
+    span:
+    - body
+    - 0
+    - 66053
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:3e072907bb99dff7ea88bf97d2195da7593c8c0190bbbe8acf4ef4b9792bf5e1
